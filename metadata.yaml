@@ -1,5 +1,5 @@
 _repo: Frijoles-A-Hidden-Valley-in-the-New-World_52997
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Taylor, Jocelyn
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1992
     gutenberg_agent_id: '47162'
     url: http://www.gutenberg.org/2009/agents/47162
+covers:
+- cover_type: archival
+  image_path: 52997-h/images/cover.jpg
 creator:
   author:
     agent_name: Hendron, J. W. (Jerome William)
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '47161'
     url: http://www.gutenberg.org/2009/agents/47161
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52997#Frijoles-A-Hidden-Valley-in-the-New-World
 gutenberg_issued: '2016-09-07'
 gutenberg_type: Text
 identifiers:
