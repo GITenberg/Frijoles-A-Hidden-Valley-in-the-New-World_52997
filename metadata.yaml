@@ -1,0 +1,39 @@
+_repo: Frijoles-A-Hidden-Valley-in-the-New-World_52997
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Taylor, Jocelyn
+    birthdate: 1899
+    deathdate: 1992
+    gutenberg_agent_id: '47162'
+    url: http://www.gutenberg.org/2009/agents/47162
+creator:
+  author:
+    agent_name: Hendron, J. W. (Jerome William)
+    alias: Hendron, Jerome William
+    birthdate: 1912
+    gutenberg_agent_id: '47160'
+    url: http://www.gutenberg.org/2009/agents/47160
+  editor:
+    agent_name: Thomas, Dorothy
+    alias: Thomas, Dee
+    birthdate: 1898
+    gutenberg_agent_id: '47161'
+    url: http://www.gutenberg.org/2009/agents/47161
+description: ''
+gutenberg_issued: '2016-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52997'
+  lccn: '47017158'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cliff-dwellers -- New Mexico'
+- !lcc 'F786'
+- !lcsh 'Frijoles Canyon (N.M.)'
+- GITenberg
+title: 'Frijoles: A Hidden Valley in the New World'
+url: http://www.gutenberg.org/ebooks/52997
